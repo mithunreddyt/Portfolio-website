@@ -28,7 +28,7 @@ body{
 }
 .header-content{
     margin-top: 40px;
- background:linear-gradient(rgba(71,49,128,0.35),rgba(71,49,128,0.35)),rgba(71,49,128,0.35) url("/images/header.jpg") no-repeat center;
+ background:linear-gradient(rgba(71,49,128,0.35),rgba(71,49,128,0.35)),rgba(71,49,128,0.35) url("C:\Users\Mithun Reddy\Desktop\portfolio\images/header.JPG") no-repeat center;
  background-position: center;
  background-attachment: fixed;
  background-repeat: no-repeat;
@@ -43,7 +43,7 @@ body{
     font-weight: 700;
 }
 .intro{
-    background: linear-gradient(rgba(230,212,212,0.46),rgba(230,212,212,0.46)),rgba(230,212,212,0.46) url("/images/title.jpg") no-repeat center;
+    background: linear-gradient(rgba(230,212,212,0.46),rgba(230,212,212,0.46)),rgba(230,212,212,0.46) url("\images\title.jpg") no-repeat center;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
