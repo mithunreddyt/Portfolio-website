@@ -8,6 +8,17 @@ $(document).ready(function(){
         e.preventDefault();
     });
 });
+//typing effect
+$('#typing').typeIt({
+   strings:["Hello World!",
+            "Iam Mithun Reddy Tunga",
+            "I am a Front End Developer."
+           ],
+    speed:70,
+    loop:true,
+    backLoop:2000,
+    breakLines: false
+});
 //this script for scrollReveal
 
 window.sr = ScrollReveal();

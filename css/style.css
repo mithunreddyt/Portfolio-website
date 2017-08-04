@@ -40,7 +40,7 @@ body{
     vertical-align:middle;
 }
 .header-content-inner{
- padding-top: 10px;
+     margin-top: 10%;
     color: white;
     font-weight: 700;
 }
@@ -57,6 +57,7 @@ body{
     border-radius: 50%;
     height: 40%;
     width: 40%;
+    margin-top: 5%;
 }
 .introduction{
     text-align: center;
@@ -67,6 +68,8 @@ body{
     line-height: 2em;
     text-align: center;
     font-weight: 900;
+    float: right;
+    margin-left: 15%;
 }
 
 .service-heading{
