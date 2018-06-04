@@ -11,7 +11,7 @@ $(document).ready(function(){
 //typing effect
 $('#typing').typeIt({
    strings:["Hello World!",
-            "Iam Mithun Reddy Tunga",
+            "I am Mithun Reddy Tunga",
             "I am a UI/UX Developer."
            ],
     speed:70,
