@@ -10,7 +10,10 @@ $(document).ready(function(){
 });
 //typing effect
 $('#typing').typeIt({
-  
+    strings:["Hello World!",
+            "I am Mithun Reddy Tunga",
+            "I am a UI/UX Developer."
+           ],
     speed:70,
     loop:true,
     backLoop:2000,
